@@ -3,7 +3,10 @@
 A modern, responsive e-commerce website for electronics, gadgets, and accessories built with HTML5, CSS3, and Bootstrap 5.
 
 E-Shop Preview
-<img width="1480" height="1136" alt="image" src="https://github.com/user-attachments/assets/f87a408f-1788-4584-9e3b-43dd3b2c8240" />
+<img width="1180" height="836" alt="image" src="https://github.com/user-attachments/assets/f87a408f-1788-4584-9e3b-43dd3b2c8240" />
+
+<img width="1138" height="572" alt="image" src="https://github.com/user-attachments/assets/d6bf9fb1-279b-43ed-95ad-8b16f8a642d4" />
+
 
 ## Table of Contents
 
